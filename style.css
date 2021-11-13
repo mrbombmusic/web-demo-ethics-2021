@@ -1,0 +1,31 @@
+h1 {
+  color:red;
+}
+
+#wordButton{
+  background-color: #0000ff; /* Green */
+  border-radius: 12px;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.color{
+  font-size: 3em;
+}
+ /* #monkey{
+  position: relative;
+  left: 0px;
+}
+#canvas{
+  position: relative;
+  right:-400px;
+  bottom:400px;
+}
+#p5{
+
+} */
