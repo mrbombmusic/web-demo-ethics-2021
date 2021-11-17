@@ -20,12 +20,11 @@ h1 {
 
 #paragraph1 {
   background-color:blue
-  display: grid;
-  display-template-columns: 30em;
+  /* display: grid;
+  display-template-columns: 30em; */
 }
 
 #canvas{
-  position: relative;
-  right:30em;
-  bottom:30em;
+  display: grid;
+  display-template-columns: 30em;
 }
